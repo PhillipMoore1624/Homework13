@@ -76,7 +76,7 @@ https://github.com/PhillipMoore1624/Homework13/blob/main/Diagram/PhillipMoore_Do
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
-- _TODO: List the IP addresses of the machines you are monitoring_
+
 Web 1: 10.0.0.4
 Web 2: 10.0.0.5
 
